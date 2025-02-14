@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabin Rag TK</h1>
-<h3 align="center">A passionate frontend developer in .NET MAUI and .NET Xamarin Forms</h3>
+<h3 align="center">A passionate frontend developer in .NET MAUI and .NET Xamarin.Forms</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabinrag234&label=Profile%20views&color=0e75b6&style=flat" alt="prabinrag234" /> </p>
 
