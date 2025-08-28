@@ -3,17 +3,13 @@
 </h1>
 <h3 align="center">A passionate frontend developer in .NET MAUI and .NET Xamarin.Forms</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabinrag234&label=Profile%20views&color=0e75b6&style=flat" alt="prabinrag234" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabinrag234" alt="prabinrag234" /></a> </p>
-
 - 🔭 I’m currently working on [My Personal Project called School Information System](https://github.com/prabinrag234/SchoolMGT.git)
 
-- 🌱 I’m currently learning **.NET MAUI, Blazor**
+- 🌱 I’m currently learning **ASP.Net core, Node.JS, PHP**
 
 - 📫 How to reach me **prabinrag2340@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iidEh6jRcMc1mreOY8srPeMmdHi47R0N/view?usp=sharing](https://drive.google.com/file/d/1iidEh6jRcMc1mreOY8srPeMmdHi47R0N/view?usp=sharing)
+- 📄 Know about my experiences [Click Me](https://docs.google.com/document/d/1t9oJwM6hHM8iBORgYUKUkzSp4s49wLIM/edit?usp=drive_link&ouid=106133735043603613903&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
