@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **ASP.Net core, Node.JS, PHP**
 
-- 📫 How to reach me **prabinrag2340@gmail.com**
+- 📫 How to reach me [📧](mailto:prabinrag2340"gmail.com)
 
-- 📄 Know about my experiences [Click Me](https://docs.google.com/document/d/1t9oJwM6hHM8iBORgYUKUkzSp4s49wLIM/edit?usp=drive_link&ouid=106133735043603613903&rtpof=true&sd=true)
+- 📄 Know about my experiences [📰](https://docs.google.com/document/d/1t9oJwM6hHM8iBORgYUKUkzSp4s49wLIM/edit?usp=drive_link&ouid=106133735043603613903&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
