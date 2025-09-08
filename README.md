@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate frontend developer in .NET MAUI and .NET Xamarin.Forms</h3>
 
-- 🔭 I’m currently working on [A Simple Token System](git@github.com:prabinrag234/QToken_Native.git)
+- 🔭 I’m currently working on [A Simple Token System](https://github.com:prabinrag234/QToken_Native.git)
 
 - 🌱 I’m currently learning **ASP.Net core, Node.JS, PHP**
 
