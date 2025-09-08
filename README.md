@@ -3,13 +3,13 @@
 </h1>
 <h3 align="center">A passionate frontend developer in .NET MAUI and .NET Xamarin.Forms</h3>
 
-- 🔭 I’m currently working on [A Simple Token System](https://github.com:prabinrag234/QToken_Native.git)
+- 🔭 I’m currently working on [A Token System](https://github.com/prabinrag234/QToken_Native)
 
-- 🌱 I’m currently learning **ASP.Net core, Node.JS, PHP**
+- 🌱 I’m currently learning **MAUI, ASP.Net core, Node.JS, PHP**
 
-- 📫 How to reach me [📧](mailto:prabinrag2340"gmail.com)
+- 📫 How to reach me [Gmail](mailto:prabinrag2340@gmail.com)
 
-- 📄 Know about my experiences [📰](https://docs.google.com/document/d/1t9oJwM6hHM8iBORgYUKUkzSp4s49wLIM/edit?usp=drive_link&ouid=106133735043603613903&rtpof=true&sd=true)
+- 📄 Know about my experiences [📰](https://drive.google.com/file/d/1WMpGhVFcQENEwfOneiFo0hvm8ND4zJQL/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
